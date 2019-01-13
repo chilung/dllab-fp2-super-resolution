@@ -1,0 +1,2 @@
+OrderedDict([('psnr', 36.132), ('time', 42.8), ('device', 'cuda'), ('model size', 5490680)])
+OrderedDict([('psnr', 36.132), ('time', 724.36), ('device', 'cpu'), ('model size', 5515268)])
